@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I blog on [AvidDeveloper](https://AvidDeveloper.com).
+
 <!--
 **andrewcahill/andrewcahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
