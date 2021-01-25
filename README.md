@@ -2,8 +2,8 @@
 
 I blog on [AvidDeveloper](https://AvidDeveloper.com).
 
-https://github-readme-stats.vercel.app/api?username=andrewcahill&show_icons=true 
 
+[![Andrew Cahill's github stats](https://github-readme-stats.vercel.app/api?username=andrewcahill&theme=midnight-purple&show_icons=true)](https://github.com/andrewcahill/github-readme-stats)
 
 <!--
 **andrewcahill/andrewcahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
