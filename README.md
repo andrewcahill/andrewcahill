@@ -3,9 +3,9 @@
 You can reach me on my blog [AvidDeveloper](https://AvidDeveloper.com).
 
 
-[![Andrew Cahill's github stats](https://github-readme-stats.vercel.app/api?username=andrewcahill&theme=midnight-purple&show_icons=true)](https://github.com/andrewcahill/github-readme-stats)
+[![Andrew Cahill's github stats](https://github-readme-stats.vercel.app/api?username=andrewcahill&theme=dark&show_icons=true)](https://github.com/andrewcahill/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcahill&layout=compact&theme=midnight-purple)](https://github.com/andrewcahill/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcahill&layout=compact&theme=dark)](https://github.com/andrewcahill/github-readme-stats)
 
 
 <!--
