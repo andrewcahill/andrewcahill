@@ -2,6 +2,9 @@
 
 I blog on [AvidDeveloper](https://AvidDeveloper.com).
 
+https://github-readme-stats.vercel.app/api?username=andrewcahill&show_icons=true 
+
+
 <!--
 **andrewcahill/andrewcahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
