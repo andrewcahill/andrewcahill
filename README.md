@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an Algorithmic Brading Bot
-🌱 I’m currently learning Trading
+🔭 I’m currently working on an Algorithmic Brading Bot  
+🌱 I’m currently learning Trading  
  📫 How to reach me: You can reach me on my blog [AvidDeveloper](https://AvidDeveloper.com).
  
 <!--
