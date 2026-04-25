@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an Algorithmic Brading Bot  
+🔭 I’m currently working on an Algorithmic Trading Bot  
 🌱 I’m currently learning Trading  
  📫 You can reach me on my blog [AvidDeveloper](https://AvidDeveloper.com).
  
