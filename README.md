@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on an Algorithmic Trading Bot  
 🌱 I’m currently learning Trading  
- 📫 You can reach me on my blog [AvidDeveloper](https://AvidDeveloper.com).
  
 <!--
 **andrewcahill/andrewcahill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
